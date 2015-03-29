@@ -1018,5 +1018,5 @@
 	<house name="Hare's Den" houseid="2460" entryx="32687" entryy="32193" entryz="10" rent="7500" townid="3" size="165" />
 	<house name="Lost Cavern" houseid="2461" entryx="32559" entryy="31856" entryz="7" rent="14730" townid="3" size="502" />
 	<house name="Caveman Shelter" houseid="2462" entryx="33007" entryy="31426" entryz="6" rent="3780" townid="14" size="78" />
-	<house name="Old Sanctuary of God King Qjell" houseid="2463" entryx="33473" entryy="31310" entryz="9" rent="21940" townid="28" size="597" />
+	<house name="Old Sanctuary of God King Qjell" houseid="2463" entryx="33473" entryy="31310" entryz="9" rent="21940" townid="28" size="575" />
 </houses>
