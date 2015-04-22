@@ -42,7 +42,7 @@
 	<house name="Paupers Palace, Flat 34" houseid="46" entryx="32906" entryy="32095" entryz="4" rent="1675" townid="1" size="30" />
 	<house name="Salvation Street 1 (Shop)" houseid="47" entryx="32929" entryy="32096" entryz="6" rent="6240" townid="1" size="114" />
 	<house name="Dream Street 1 (Shop)" houseid="49" entryx="32897" entryy="32107" entryz="6" rent="4330" townid="1" size="81" />
-	<house name="Blessed Shield Guildhall" houseid="50" entryx="32908" entryy="32126" entryz="6" rent="8090" townid="1" size="128" />
+	<house name="Blessed Shield Guildhall" houseid="50" entryx="32908" entryy="32126" entryz="6" rent="8090" townid="1" size="125" />
 	<house name="Dagger Alley 1" houseid="51" entryx="32921" entryy="32134" entryz="6" rent="2665" townid="1" size="51" />
 	<house name="Steel Home" houseid="52" entryx="32929" entryy="32125" entryz="6" rent="13845" townid="1" size="226" />
 	<house name="Iron Alley 1" houseid="53" entryx="32942" entryy="32126" entryz="6" rent="3450" townid="1" size="60" />
@@ -327,7 +327,7 @@
 	<house name="Banana Bay 2" houseid="699" entryx="32550" entryy="32803" entryz="6" rent="765" townid="8" size="14" />
 	<house name="Banana Bay 3" houseid="700" entryx="32561" entryy="32805" entryz="6" rent="450" townid="8" size="7" />
 	<house name="Banana Bay 4" houseid="701" entryx="32556" entryy="32814" entryz="6" rent="450" townid="8" size="7" />
-	<house name="Shark Manor" houseid="702" entryx="32556" entryy="32767" entryz="6" rent="8780" townid="8" size="126" />
+	<house name="Shark Manor" houseid="702" entryx="32556" entryy="32767" entryz="6" rent="8780" townid="8" size="123" />
 	<house name="Coconut Quay 1" houseid="703" entryx="32568" entryy="32775" entryz="6" rent="1765" townid="8" size="32" />
 	<house name="Coconut Quay 2" houseid="704" entryx="32577" entryy="32766" entryz="6" rent="1045" townid="8" size="16" />
 	<house name="Coconut Quay 3" houseid="705" entryx="32586" entryy="32773" entryz="6" rent="2145" townid="8" size="32" />
@@ -434,7 +434,7 @@
 	<house name="The Market 3 (Shop)" houseid="834" entryx="32635" entryy="31926" entryz="8" rent="1450" townid="3" size="22" />
 	<house name="The Market 2 (Shop)" houseid="835" entryx="32634" entryy="31930" entryz="8" rent="1100" townid="3" size="16" />
 	<house name="The Market 4 (Shop)" houseid="836" entryx="32635" entryy="31933" entryz="8" rent="1800" townid="3" size="28" />
-	<house name="Granite Guildhall" houseid="837" entryx="32599" entryy="31949" entryz="5" rent="17845" townid="3" size="297" />
+	<house name="Granite Guildhall" houseid="837" entryx="32599" entryy="31949" entryz="5" rent="17845" townid="3" size="294" />
 	<house name="Upper Barracks 1" houseid="838" entryx="32605" entryy="31923" entryz="5" rent="210" townid="3" size="4" />
 	<house name="Upper Barracks 13" houseid="850" entryx="32615" entryy="31923" entryz="5" rent="580" townid="3" size="11" />
 	<house name="Nobility Quarter 4" houseid="851" entryx="32607" entryy="31921" entryz="4" rent="765" townid="3" size="14" />
@@ -613,7 +613,7 @@
 	<house name="Litter Promenade 3" houseid="2035" entryx="32286" entryy="32865" entryz="7" rent="450" townid="7" size="12" />
 	<house name="Litter Promenade 2" houseid="2036" entryx="32277" entryy="32861" entryz="7" rent="300" townid="7" size="7" />
 	<house name="Litter Promenade 1" houseid="2037" entryx="32271" entryy="32862" entryz="7" rent="400" townid="7" size="6" />
-	<house name="The Shelter" houseid="2038" entryx="32267" entryy="32860" entryz="7" rent="13590" townid="7" size="282" />
+	<house name="The Shelter" houseid="2038" entryx="32267" entryy="32860" entryz="7" rent="13590" townid="7" size="279" />
 	<house name="Straycat's Corner 6" houseid="2039" entryx="32281" entryy="32858" entryz="7" rent="300" townid="7" size="7" />
 	<house name="Straycat's Corner 5" houseid="2040" entryx="32281" entryy="32853" entryz="7" rent="760" townid="7" size="16" />
 	<house name="Rum Alley 3" houseid="2042" entryx="32272" entryy="32854" entryz="7" rent="330" townid="7" size="9" />
@@ -654,7 +654,7 @@
 	<house name="Sugar Street 4b" houseid="2078" entryx="32287" entryy="32810" entryz="7" rent="950" townid="7" size="12" />
 	<house name="Sugar Street 4a" houseid="2079" entryx="32279" entryy="32813" entryz="7" rent="950" townid="7" size="12" />
 	<house name="Trader's Point 1" houseid="2080" entryx="32306" entryy="32826" entryz="7" rent="2200" townid="7" size="36" />
-	<house name="Mountain Hideout" houseid="2081" entryx="32392" entryy="32705" entryz="6" rent="15550" townid="7" size="226" />
+	<house name="Mountain Hideout" houseid="2081" entryx="32392" entryy="32705" entryz="6" rent="15550" townid="7" size="223" />
 	<house name="Dark Mansion" houseid="2082" entryx="32397" entryy="32155" entryz="7" rent="17845" townid="2" size="293" />
 	<house name="Halls of the Adventurers" houseid="2083" entryx="32396" entryy="32042" entryz="7" rent="15380" townid="2" size="244" />
 	<house name="Castle of Greenshore" houseid="2084" entryx="32290" entryy="32070" entryz="7" rent="18860" townid="2" size="253" />
@@ -944,7 +944,7 @@
 	<house name="Ab'Dendriel Clanhall" houseid="2376" entryx="32714" entryy="31643" entryz="7" rent="14850" townid="5" size="262" />
 	<house name="Castle of the Winds" houseid="2377" entryx="32657" entryy="31583" entryz="7" rent="23885" townid="5" size="415" />
 	<house name="The Hideout" houseid="2378" entryx="32546" entryy="31666" entryz="7" rent="20800" townid="5" size="321" />
-	<house name="Shadow Towers" houseid="2379" entryx="32698" entryy="31773" entryz="7" rent="21800" townid="5" size="346" />
+	<house name="Shadow Towers" houseid="2379" entryx="32698" entryy="31773" entryz="7" rent="21800" townid="5" size="343" />
 	<house name="Hill Hideout" houseid="2380" entryx="32593" entryy="31826" entryz="9" rent="13950" townid="3" size="195" />
 	<house name="Meriana Beach" houseid="2381" entryx="32383" entryy="32584" entryz="7" rent="8230" townid="7" size="140" />
 	<house name="Darashia 8, Flat 01" houseid="2382" entryx="33251" entryy="32442" entryz="7" rent="2485" townid="10" size="48" />
