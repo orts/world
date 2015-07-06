@@ -1025,10 +1025,10 @@
 	<house name="Antimony Lane 3" houseid="2467" entryx="33630" entryy="31921" entryz="6" rent="3665" townid="33" size="71" />
 	<house name="Antimony Lane 2" houseid="2468" entryx="33637" entryy="31921" entryz="6" rent="4745" townid="33" size="95" />
 	<house name="Vanward Flats B" houseid="2469" entryx="33614" entryy="31935" entryz="6" rent="7410" townid="33" size="147" />
-	<house name="Vanward Flats A" houseid="2470" entryx="33621" entryy="31935" entryz="6" rent="7410" townid="33" size="150" />
+	<house name="Vanward Flats A" houseid="2470" entryx="33621" entryy="31935" entryz="6" rent="7410" townid="33" size="149" />
 	<house name="Bronze Brothers Bastion" houseid="2471" entryx="33599" entryy="31933" entryz="6" rent="35205" guildhall="true" townid="33" size="649" />
 	<house name="Antimony Lane 1" houseid="2472" entryx="33656" entryy="31915" entryz="6" rent="7105" townid="33" size="137" />
-	<house name="Rathleton Hills Estate" houseid="2473" entryx="33662" entryy="31917" entryz="6" rent="20685" guildhall="true" townid="33" size="402" />
+	<house name="Rathleton Hills Estate" houseid="2473" entryx="33662" entryy="31917" entryz="6" rent="20685" guildhall="true" townid="33" size="401" />
 	<house name="Rathleton Hills Residence" houseid="2474" entryx="33651" entryy="31910" entryz="6" rent="7085" townid="33" size="141" />
 	<house name="Rathleton Plaza 1" houseid="2475" entryx="33637" entryy="31911" entryz="6" rent="2890" townid="33" size="58" />
 	<house name="Rathleton Plaza 2" houseid="2476" entryx="33625" entryy="31912" entryz="6" rent="2620" townid="33" size="52" />
